@@ -1,5 +1,3 @@
-package video;
-
 public class Question3 {
     public static String[] removeDuplicates(String[] arr) {
         String[] tempArray = new String[arr.length];
